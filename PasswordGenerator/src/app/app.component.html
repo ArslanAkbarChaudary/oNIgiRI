@@ -1,29 +1,55 @@
-<label> <h1> Password Generator </h1> </label>
-<div>
-<label>Length</label>
-</div>
-<div>
-<input type="text"/>
-</div>
-<div>
-<label> Use Latters</label>
-<input type="checkbox">
-</div>
-<div>
-<label>Use Numbers </label>
-<input type="checkbox">
-</div>
-<div>
-<label > Use Symbols</label>
-<input type="checkbox">
+<div class="custommargin container">
+
+<label class="custommargin label">Password Generator</label>
+
+<div class="custommargin field">
+    <label class="custommargin label">Length</label>
+  <div class="custommargin control">
+    <input class="custommargin input" (input)="onChangelength($event)" type="text"/>
+  </div>
 </div>
 
-<div>
-<button>Generate</button>
+<div class="custommargin field">
+  <div class="custommargin control">
+    <label class="checkbox">
+      <input (change)="onSelectUseLatters()" type="checkbox">
+        Use Latters
+    </label>
+  </div>
 </div>
-<div>
-<label>Your Password</label>
+
+<div class="custommargin field">
+  <div class="custommargin control">
+<label class="checkbox" >
+<input (change)="onSelectUseNumber()" type="checkbox">
+  Use Numbers
+</label>
 </div>
-<div>
-<input type="text" value="Your Password">
 </div>
+
+<div class="custommargin field">
+  <div class="custommargin control">
+<label class="checkbox">
+<input (change)="onSelectUseSymbols()" type="checkbox">
+  Use Symbols
+</label>
+</div>
+</div>
+<div class="custommargin control">
+  <button [ngClass]=
+  "{
+    'is-primary': (length && (includeLatters ||includeNumbers || includeSymbols)) === true,
+    'is-light': (length && (includeLatters ||includeNumbers || includeSymbols)) === false
+  }"
+   class="custommargin button" [disabled] = "!(length && (includeLatters ||includeNumbers || includeSymbols))" (click)="onGeneratePasswordClick()">
+    Generate
+  </button>
+</div>
+
+<div class="custommargin field" *ngIf="generatedPassword">
+      <label class="custommargin label"> Your Password </label>
+      <input class="input content is-large" [value]="generatedPassword">
+</div>
+
+</div>
+
